@@ -16,7 +16,6 @@ import com.ifms.entities.Modalidade;
 import com.ifms.repositories.ModalidadeRepository;
 import com.ifms.services.exceptions.DataBaseException;
 import com.ifms.services.exceptions.ResourceNotFoundException;
-import com.sun.el.stream.Optional;
 
 @Service
 public class ModalidadeService {
