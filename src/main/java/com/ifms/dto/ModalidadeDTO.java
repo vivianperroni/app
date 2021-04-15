@@ -1,7 +1,6 @@
 package com.ifms.dto;
 
 import java.io.Serializable;
-
 import com.ifms.entities.Modalidade;
 
 public class ModalidadeDTO implements Serializable{
